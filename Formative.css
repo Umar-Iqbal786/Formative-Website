@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(128, 223, 128);
+}
+
+.jumbotron {
+    background-image: url("https://www.gannett-cdn.com/-mm-/50a9db3ce123ca071f02e5432baa34eb9f80e14a/c=0-326-3187-2127/local/-/media/2018/02/22/USATODAY/USATODAY/636549359985287359-GettyImages-614041114.jpg?width=660&height=373&fit=crop&format=pjpg&auto=webp");
+    background-size: cover;
+}
+
+#list {
+    text-align: right;
+}
+
+#a {
+    font-style : oblique
+}
+
+
+
